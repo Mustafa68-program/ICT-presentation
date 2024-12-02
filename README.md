@@ -1,2 +1,4 @@
 # ICT-presentation
-BSCS (1A)
+## Group Presentation
+- members of project
+### Teachers
