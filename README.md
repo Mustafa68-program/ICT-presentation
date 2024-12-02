@@ -1,4 +1,5 @@
 # ICT-presentation
 ## Group Presentation
- members of project
+- members of project
 ### Teachers
+- Sir Abdullah
